@@ -1,0 +1,345 @@
+@charset "utf-8";
+body {
+    margin: 0;
+    overflow-x: hidden;
+	font-family: 'PT Sans Narrow', helvetica, sans-serif;
+}
+nav,footer,aside {
+	display:block;
+}
+#deal-details {
+	position:relative;
+	top: 37%;
+	left: 20%;
+	color:#fbdc67;
+	font: 22px/1.4em Arial, Helvetica, sans-serif;
+	text-decoration:underline;
+}
+#header {
+    margin: 0;
+    width: 100%;
+    height: 140px;
+    background: #2a5bbd;
+    background: linear-gradient(to top, #69b0e3 0%, #2a5bbd 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #69b0e3), color-stop(100%, #2a5bbd));
+    background: -webkit-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    background: -o-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    background: -ms-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    background: linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#69b0e3', endColorstr='#2a5bbd', GradientType=0);
+	 background: -moz-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+	position: relative;
+	float: left;
+}
+#header-logo {
+	float:left;
+	width:120px;
+	margin-top:.5%;
+	margin-left:3.5%;
+}
+a {
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+#nav-wrapper{
+	position:relative;
+	float: left;
+	clear: both;
+	width:100%;
+	border-top: 1px groove #FFF;
+	background:#2D60C5;
+	-webkit-box-shadow:0px -6px 8px -6px #FFF;
+	-moz-box-shadow:0px -6px 8px -6px #FFF;
+	box-shadow:0px -6px 8px -6px #FFF;
+}
+nav {
+    margin-left:7%;
+}
+nav ul {
+    width: 100%;
+    list-style-type: none;
+}
+nav li {
+    position: relative;
+    float: left;
+    width: 21%;
+}
+.li {
+	margin:-16px .2% 2px .2%;
+	-webkit-box-shadow:6px 5px 5px -5px #FFF;
+	-moz-box-shadow:6px 5px 5px -5px #FFF;
+	box-shadow:6px 5px 5px -5px #FFF;
+}
+nav a {
+    display: block;
+    background: #2a3bbc;
+    text-align: center;
+    font: 17px/48px 'PT Sans Narrow';
+    color: #FFF;
+}
+nav a:hover, nav li ul a:hover {
+	background: #191e26;
+}
+nav li ul {
+    float: none;
+    opacity: 0;
+    position: absolute;
+    visibility: hidden;
+    width: 100%;
+    top: 2em;
+    z-index: 1;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    -ms-transition: all .3s ease;
+    -o-transition: all .3s ease;
+    transition: all .3s ease;
+    left: -16%;
+}
+nav li:hover ul {
+    visibility: visible;
+    opacity: 1;
+    top: 104%;
+}
+nav li ul li {
+    float: none;
+    width: 100%;
+    border-bottom: 2px solid #FFF;
+}
+nav li ul li:nth-child(4){
+	border:0;
+}
+#main-wrapper {
+    position: relative;
+	float: left;
+	clear: both;
+	height: 44em;
+	width: 100%;
+}
+
+#main-wrapper h1:nth-of-type(1),#main-wrapper-index h1:nth-of-type(1), #main-wrapper-polyethelene h1:nth-of-type(1)  {margin: 5% 23% 2% 17%;}
+
+
+#main-wrapper h1:nth-of-type(2),#main-wrapper-index h1:nth-of-type(2), #main-wrapper-polyethylene h1:nth-of-type(1) {margin: 1% 23% 5.5% 17%;}
+#main-wrapper, #main-wrapper-index h1, #main-wrapper-polyethelene h1, #main-wrapper-polyethylene {font-size:20px;}
+#footer {
+    position: relative;
+    float: left;
+    clear: both;
+    width: 100%;
+    border-top: 4px solid black;
+    height: 17em;
+	background: #2a5bbd;
+    background: linear-gradient(to top, #69b0e3 0%, #2a5bbd 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #69b0e3), color-stop(100%, #2a5bbd));
+    background: -webkit-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    background: -o-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    background: -ms-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    background: linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#69b0e3', endColorstr='#2a5bbd', GradientType=0);
+	 background: -moz-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
+	
+}
+#footer a {
+    color: #000;
+}
+#footer a:hover {cursor:pointer;
+	background:white;
+	text-decoration:none;
+}
+#pvc-footer, #other-footer, #contact-footer {
+    position: absolute;
+    margin-top: 1%;
+}
+#pvc-footer {
+    margin-left: 5%;
+    width: 320px
+}
+#other-footer {
+    margin:2.4% 0 0 33%;
+    width: 12%;
+}
+#contact-footer {
+    margin-left: 50%;
+    width: auto;
+}
+#footer h3 {
+    border-bottom: 2px dashed #000;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+#other-footer h3 {
+    padding: auto auto 6px 0;
+    margin: auto auto 11px auto;
+}
+span.right {
+	margin-top: -23px;
+    float: right;
+    text-align: right;
+    margin-right: 13px;
+}
+#pvc-footer p, #other-footer p {
+    margin: 3px;
+    padding-left: 7px;
+}
+#footer-logo {
+	width:190px;
+	margin-right:6.5%;
+	margin-top:3.25%;
+	float:right;
+}
+
+#header-motto {color:#fff;font-style:italic;float:left;font-size:1.5em;  position:relative;margin: 4% 0 0 1%;}
+#header-logo {position: relative; float: left;}
+#li:nth-child(2) > a{
+	background:#775F9A;
+}
+#aside{
+	position:relative;
+	float:left;
+	background:#2a5bbd; 
+	width:20%;
+	height:32.5em;
+	top:6.5%;
+	left:3.5%;
+	border-radius:8px;
+	text-align:center;
+	display:block;
+	color: white;
+}
+a.list-link-products {color:#FFF; text-decoration:none;}
+#sub-nav{
+	margin:9% auto 0 auto;
+	width:75%;
+}
+#sub-nav p, #sub-nav-polyethylene p{
+	padding:7% 0 7% 0;
+	margin:-6% 0 -6% 0;
+}
+#sub-nav p:hover, #sub-nav-polyethylene p:hover{
+	cursor:pointer;
+	background:#191e26;
+}
+#color-wrapper{
+    top: 7%;
+	left:5%;
+	right:5%;
+	position: absolute;
+	height:37.5em;
+	margin-bottom:5%;
+	background:#69b0e3;
+	border-radius:10px;}
+
+div.script {
+	display:none;
+}
+#space{
+	position: relative;
+	float: left;
+	left: 10%;
+	top:2%;
+	height:36em;
+	width: 68%;
+	display: block;
+	
+} 
+img.facebook-page {position:relative;float:left; margin-top:1.5%;width:6%;}
+#facebook {list-style-type:none;}
+#twitter-icon {margin-left:3%;}
+ul.product-specs-lowboy {float: left; clear: both; margin-top:1.5%; margin-left:-2%; width: auto; font: .95em Palatino Linotype, serif; list-style-position: outside; margin-right: 5%;}
+#main-wrapper-index {
+    position: relative;
+	float: left;
+	clear: both;
+	height: 506px;
+	width: 100%;
+	background-image: url(../IMAGES/homepage-image-computer.png);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: right;
+	background-color: #616161;}
+#writing {float:left; top: 8.5%; width:30%; position:relative;}
+h1.homepage-font{color:white; text-align: center;  font: 10px/1.5em Arial, Helvetica, sans-serif; font-weight:100;}
+div.price {float: left; position: relative; clear: both; font: .95em Palatino Linotype, serif; left:-2%; margin-top:2%; margin-right:5%; color: black; text-transform: none; font-weight: 900; }
+div.product-title {font: 1.2em Palatino Linotype, serif;  margin-top: 5%; margin-right: 5%; color: black; text-transform: uppercase; font-weight: 900; float: left; position:relative; left:-2%;}
+li.main-list-category {color:#2a5bbd; font-size:1.1em; font: Arial, Helvetica, sans-serif; font-weight:900; float:left; position:relative; clear:both; margin-top: 1%; margin-bottom: 0.5%; list-style-type: none; left: -5%; text-decoration:underline;}
+ul.sub-list-expanded {left: -12%; margin-right:-10%; font-size:1em; float:left; position:relative; clear:both; list-style-position: inside;} 
+ul.sub-list-expanded li, ul.sub-sub-list li {float:left; position:relative; padding: 0px 5px; margin: 0px 10px;}
+li.list-clear {position:relative; clear:both;}
+span.underline {text-decoration:underline; }
+li.list-clear-advantages {position:relative; float:left; clear:both; list-style-type:none; left: -.5%; top: 5px;}
+#main-list-category-special {margin-top:2%;}
+li.list-clear-indent {position:relative; clear:both; float:left; left:7%; list-style-type:none;}
+#list-clear-options{position:relative; clear:both; float:left; margin-top:0.5%;}
+li.list-clear-advantages-fire-resistant{position:relative; float:left; clear:both; list-style-type:none; left: -.5%; top: 10px;}
+li.list-clear-indent-grades {position:relative; clear:both; float:left; left:7%; list-style-type:none;}
+#sub-list{list-style-type:none;}
+
+#main-wrapper-polyethylene {position: relative;
+	float: left;
+	clear: both;
+	height: 44.5em;
+	width: 100%;}
+#color-wrapper-polyethylene {top: 7%;
+	left:5%;
+	right:5%;
+	position: absolute;
+	height:38em;
+	margin-bottom:5%;
+	background:#69b0e3;}
+#aside-polyethylene {position:relative;
+	float:left;
+	background:#2a5bbd; 
+	width:20%;
+	height:26.5em;
+	top:6.5%;
+	left:3.5%;
+	border-radius:8px;
+	text-align:center;
+	display:block;
+	color: white;}
+#sub-nav-polyethylene {margin:9% auto 0 auto;
+	width:75%;}
+	#poly-spacing {margin-top:14%;}
+	li.list-indent-poly {position:relative; clear:both; float:left; left:7%; list-style-type:none;}
+	
+	
+/*STYLES PERTAINING TO INDIVIDUAL PRODUCT IMAGES BEGIN HERE*/
+div.positioning-top{float: left; width: inherit;}
+div.positioning-bottom{float: left; width: 110%; clear: left;  margin-top: 2%;}
+/* ISAAC- YOU WILL WANT TO PUT IN WIDTH PROPERTIES FOR THE INDIVIDUAL PRODUCT IMAGES AS YOU DESIGN FOR SMALLER SCREEN SIZES.  I MADE ALL THE IMAGES CONTAIN A CLASS SELECTOR ENTITLED "IMAGE-PRODUCT1," and "IMAGE-PRODUCT" for the other corresponding product images.  I CREATED DIFFERENT CLASSES FOR THESE IMAGES FOR SO I COULD USE FLOATING AND RELATIVE POSITIONING SO EVERYTHING WOULD LOOK NICE IN CONTEXT AND FLOW EASIER.   PLEAE DO NOT MAKE THE IMAGES SCALE ANY LARGER FOR THE LARGE MONITOR DESIGN, OR THEY WILL BECOME DISTORTED:
+img.image-product, img.image-product1{width: make width appropriate for style sheet for smaller devices; Just resize the width and not the width and height, or the image will become distorted} */
+img.image-product1 {margin-left:-1.5%; float: left; width: auto; /*ISAAC- HERE IS WHERE YOU WILL WANT TO ADD A WIDTH PROPERTY WITH A PERCENTAGE, AS I DESCRIBED ABOVE*/ }
+img.image-product {float: left; width: auto; padding-left:3.5%;}
+#general-purpose-image2 {margin-top:37px; }
+#general-purpose-image3 {margin-top:45px; }
+
+/*UNIQUE WELDING STYLES BEGIN*/
+#welding-image2{margin-top:36px;}
+#welding-image3{margin-top:37px;}
+#welding-image4{margin-top:37px;}
+/*UNIQUE WELDING STYLES END*/
+
+/*UNIQUE NOISE & CLIMATE CONTROL STYLES BEGIN*/
+#noise-and-climate-control-image1 {margin-top: 30px;}
+#noise-and-climate-control-image3 {margin-top: 81px;}
+/*UNIQUE NOISE & CLIMATE CONTROL STYLES END*/
+
+/*UNIQUE FIRE RESISTANT STYLES BEGIN*/
+#fire-resistant3 {margin-top:10px;}
+#fire-resistant2 {margin-top:6px;}
+/*UNIQUE FIRE RESISTANT STYLES BEGIN*/
+
+/*UNIQUE MARINE GRADE STYLES BEGIN-(MOST MARINE GRADE ELEMENT STYLES ARE UNIQUE BECAUSE ALL FONTS HAD TO BE SCALED DOWN SLIGHLTY SO THERE WOULD BE ENOUGH ROOM TO FLOAT THE MARINE GRADE IMAGES- THE SAME CONCEPT APPLIES TO THE FIRE RESISTANT SPECS.  FOR THIS REASON, CLASSES ARE REFERENCED ON THE STYLES THAT ARE SIZED DOWN SLIGHTLY(EXPECT THE IMAGES- WHICH ARE SPECIFIC TO EACH PRODUCT); THIS WAY MARINE GRADE AND FIRE RESISTANT ELEMENTS CAN REFERENCE THESE CLASSES HERE BELOW, TO MAKE CODE MORE EFFICIENT*/
+div.product-title-multi-images {margin-top:4%; font-size:1.175em;} div.multi-images-price {font-size:.90em;} ul.product-specs-multi-images{font-size:.9em;}
+   li.main-list-category-multi-images{color:#2a5bbd; font-size:1.05em; font: Arial, Helvetica, sans-serif; font-weight:900; float:left; position:relative; clear:both; margin-top: 0; margin-bottom: 0.5%; list-style-type: none; left: -5%; text-decoration:underline;}
+   #marine-grade1 {margin-left: -6%; margin-top:0;} img.marine-grade {margin-left:-2%; margin-top:21px; }
+   #marine-grade3 {margin-top:16px;} #marine-grade4 {margin-top:18px;}
+/*UNIQUE MARINE GRADE STYLES END*/
+
+
+
+
+/*STYLES PERTAINING TO INDIVIDUAL PRODUCT IMAGES END HERE*/
