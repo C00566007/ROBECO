@@ -4,11 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Robeco Inc. </title>
-<link href="STYLE/style-computer.css" rel="stylesheet">
 <link href="STYLE/style-mobile.css" rel="stylesheet"  media="screen and (max-width:700px)">
 <link href="STYLE/style-tablet.css" rel="stylesheet"  media="screen and (min-width:701px) and (max-width:849px)"> 
 <link href="STYLE/style-small-computer.css" rel="stylesheet"  media="screen and (min-width:850px) and (max-width:1150px)">
+<link href="STYLE/style-computer.css" rel="stylesheet" media="screen and (min-width:1151px) and (max-width:11418px)">
 <link href="STYLE/style-large-monitor.css"   rel="stylesheet"  media="screen and (min-width:1419px)">
+
 <script src="jquery-1.11.0.js"></script>
 </head>
 <div id="header"> <img src="IMAGES/logo-blue.png" alt="" id="header-logo">

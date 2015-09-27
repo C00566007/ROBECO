@@ -1,4 +1,4 @@
-<?php include("INCLUDE/header.php")?>
+ <?php include("INCLUDE/header.php")?>
    <div id="main-wrapper">
    <div id="color-wrapper">
 <div id="aside">
