@@ -26,8 +26,8 @@ List of social net. images
 <div id="nav-wrapper">
   <nav>
     <ul>
-      <li class="li"><a href="index.php">Home</a> </li>
-      <li class="li"><a style="text-decoration:none">Products</a>
+      <li class="li"><a href="index.php" id="home-tab">Home</a> </li>
+      <li class="li"><a style="text-decoration:none" id="hide-mobile">Products</a>
         <ul>
           <li><a href="pvc.php">PVC - Polyvinyl Chloride</a> </li>
           <li><a href="polypropylene.php">Polypropylene</a> </li>
@@ -35,7 +35,7 @@ List of social net. images
         </ul>
       </li>
       <li class="li"><a href="about-robeco.php">About Us</a> </li>
-      <li class="li"><a href="contact.php">Contact</a> </li>
+      <li class="li"><a href="contact.php" id="bottom-tab">Contact</a> </li>
     </ul>
   </nav>
 </div>

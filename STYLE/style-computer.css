@@ -141,6 +141,7 @@ nav li ul li:nth-child(4){
 	 background: -moz-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
 	
 }
+
 #footer a {
     color: #000;
 }
@@ -253,14 +254,14 @@ ul.product-specs-lowboy {float: left; clear: both; margin-top:1.5%; margin-left:
     position: relative;
 	float: left;
 	clear: both;
-	height: 506px;
+	height: 850px;
 	width: 100%;
 	background-image: url(../IMAGES/homepage-image-computer.png);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
-	background-position: right;
+	background-position: bottom center;
 	background-color: #616161;}
-#writing {float:left; top: 8.5%; width:30%; position:relative;}
+#writing {float:left; top: -3%; width:100%; position:relative;}
 h1.homepage-font{color:white; text-align: center;  font: 10px/1.5em Arial, Helvetica, sans-serif; font-weight:100;}
 div.price {float: left; position: relative; clear: both; font: .95em Palatino Linotype, serif; left:-2%; margin-top:2%; margin-right:5%; color: black; text-transform: none; font-weight: 900; }
 div.product-title {font: 1.2em Palatino Linotype, serif;  margin-top: 5%; margin-right: 5%; color: black; text-transform: uppercase; font-weight: 900; float: left; position:relative; left:-2%;}
