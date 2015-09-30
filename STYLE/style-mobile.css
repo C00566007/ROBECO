@@ -22,7 +22,8 @@ nav,footer,aside {
     width: 100%;
     height: 90px;
     background: #2a5bbd;
-    background: linear-gradient(to top, #69b0e3 0%, #2a5bbd 100%);
+    background: linear-gradient(to top, #69b0e3 0%, #2a5bbd 100%);\
+
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #69b0e3), color-stop(100%, #2a5bbd));
     background: -webkit-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
     background: -o-linear-gradient(top, #69b0e3 0%, #2a5bbd 100%);
@@ -126,7 +127,7 @@ nav li ul li:nth-child(4){
     clear: both;
     width: 100%;
     border-top: 4px solid black;
-    height: 17em;
+    height: auto;
 	background: #2a5bbd;
     background: linear-gradient(to top, #69b0e3 0%, #2a5bbd 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #69b0e3), color-stop(100%, #2a5bbd));
@@ -145,49 +146,6 @@ nav li ul li:nth-child(4){
 	background:white;
 	text-decoration:none;
 }
-#pvc-footer, #other-footer, #contact-footer {
-    position: absolute;
-    margin-top: 1%;
-}
-#pvc-footer {
-    margin-left: 5%;
-    width: 320px
-}
-#other-footer {
-    margin:2.4% 0 0 33%;
-    width: 12%;
-}
-#contact-footer {
-    margin-left: 50%;
-    width: auto;
-}
-#footer h3 {
-    border-bottom: 2px dashed #000;
-    padding-bottom: 10px;
-    text-align: center;
-    margin-bottom: 15px;
-}
-#other-footer h3 {
-    padding: auto auto 6px 0;
-    margin: auto auto 11px auto;
-}
-span.right {
-	margin-top: -23px;
-    float: right;
-    text-align: right;
-    margin-right: 13px;
-}
-#pvc-footer p, #other-footer p {
-    margin: 3px;
-    padding-left: 7px;
-}
-#footer-logo {
-	width:190px;
-	margin-right:6.5%;
-	margin-top:3.25%;
-	float:right;
-}
-
 #header-motto {color:#fff;font-style:italic;float:left;font-size:14px/1.1em;  position:absolute; left: 40%; top:-100%; margin-right:10%;}
 #header-logo {position: relative; float: left;}
 #li:nth-child(2) > a{
@@ -342,3 +300,13 @@ div.product-title-multi-images {margin-top:4%; font-size:1.175em;} div.multi-ima
 
 
 /*STYLES PERTAINING TO INDIVIDUAL PRODUCT IMAGES END HERE*/
+
+/*STYLES PERTAINING TO MOBILE FOOTER*/
+
+p.bottom-link, h3.bottom-link, span.bottom-link, li.bottom-link, #footer-logo {position:relative; float: left; clear: both; margin-top: 5px; margin-left: 75px;}
+#footer-logo {
+	width:90px;
+	margin-left: 120px;
+	}
+li.bottom-link{list-style-type:none;}
+span.bottom-link{display:inline;}

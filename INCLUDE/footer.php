@@ -2,41 +2,39 @@
 
 <div id="footer">
   <div id="pvc-footer">
-    <h3><a href="pvc.php">PVC</a></h3>
-    <p><a href="pvc.php#Top">General Purpose</a></p>
-    <span class="right"><a href="marine-grade.php">Marine Grade</a></span>
+    <h3 class="bottom-link"><a href="pvc.php">PVC</a></h3>
+    <p class="bottom-link"><a href="pvc.php#Top">General Purpose</a></p>
+    <span class="right bottom-link"><a href="marine-grade.php">Marine Grade</a></span>
     </p>
-    <p><a href="welding.php">Welding Curtain</a></p>
-    <span class="right"><a href="expanded.php">Expanded</a></span>
+    <p class="bottom-link"><a href="welding.php">Welding Curtain</a></p>
+    <span class="right bottom-link"><a href="expanded.php">Expanded</a></span>
     </p>
-    <p><a href="semi-rigid.php">Semi-Rigid</a></p>
-    <span class="right"><a href="pressure-sensitive.php">Pressure Sensitive</a></span>
+    <p class="bottom-link"> <a href="semi-rigid.php">Semi-Rigid</a></p>
+    <span class="right bottom-link"><a href="pressure-sensitive.php">Pressure Sensitive</a></span>
     </p>
-    <p onClick="display('#seventh-wrapper')"><a href="fire-resistant.php">Fire-Resistant</a></p>
-    <span class="right"><a href="patio-grade.php">Patio Grade</a></span>
+    <p onClick="display('#seventh-wrapper')" class="bottom-link"><a href="fire-resistant.php">Fire-Resistant</a></p>
+    <span class="right bottom-link"><a href="patio-grade.php">Patio Grade</a></span>
     </p>
-    <p onClick="display('#ninth-wrapper')"><a href="anti-static.php">Anti-Static</a></p>
-    <span class="right"><a href="noise-and-climate-control.php">Noise & Climate Control</a></span>
+    <p onClick="display('#ninth-wrapper')" class="bottom-link"><a href="anti-static.php">Anti-Static</a></p>
+    <span class="right bottom-link"><a href="noise-and-climate-control.php" >Noise & Climate Control</a></span>
     </p>
   </div>
   <div id="other-footer">
-    <h3><a href="polyethylene.php">Polyethylene</a></h3>
-    <h3><a href="polypropylene.php">Polypropylene</a></h3>
-    <h3><a href="scratch-resistant.php">Scratch Resistant</a></h3>
+    <h3 class="bottom-link"><a href="polyethylene.php">Polyethylene</a></h3>
+    <h3 class="bottom-link"><a href="polypropylene.php">Polypropylene</a></h3>
+    <h3 class="bottom-link"><a href="scratch-resistant.php">Scratch Resistant</a></h3>
   </div>
   <div id="contact-footer">
-    <h3><a href="contact.php">Contact Us</a></h3>
+    <h3 class="bottom-link"><a href="contact.php">Contact Us</a></h3>
     <ul>
-      <li>Call us: 516-248-1521</li>
-      <li><a href="mailto:sales@robecoinc.com?Subject=Customer%20Email" target="_top">Email us: sales@robecoinc.com</li>
-      <li><a href="about-robeco.php">About us</a></li>
+      <li class="bottom-link">Call us: 516-248-1521</li>
+      <li class="bottom-link"><a href="mailto:sales@robecoinc.com?Subject=Customer%20Email" target="_top">Email us: sales@robecoinc.com</li>
+      <li class="bottom-link"><a href="about-robeco.php">About us</a></li>
     </ul>
   </div>
   <img src="IMAGES/logo-black.png" alt="" id="footer-logo"></div>
 </body>
 </html>
-
-
 <body>
 </body>
 </html>
