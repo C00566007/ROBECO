@@ -2,8 +2,8 @@
 
 <div id="footer">
   <div id="pvc-footer">
-    <h3 class="bottom-link"><a href="pvc.php">PVC</a></h3>
-    <p class="bottom-link"><a href="pvc.php#Top">General Purpose</a></p>
+    <h3 class="bottom-link header-bottom" id="top-pvc-link"><a href="pvc.php">PVC</a></h3>
+    <p class="bottom-link" ><a href="pvc.php#Top">General Purpose</a></p>
     <span class="right bottom-link"><a href="marine-grade.php">Marine Grade</a></span>
     </p>
     <p class="bottom-link"><a href="welding.php">Welding Curtain</a></p>
@@ -20,12 +20,12 @@
     </p>
   </div>
   <div id="other-footer">
-    <h3 class="bottom-link"><a href="polyethylene.php">Polyethylene</a></h3>
-    <h3 class="bottom-link"><a href="polypropylene.php">Polypropylene</a></h3>
-    <h3 class="bottom-link"><a href="scratch-resistant.php">Scratch Resistant</a></h3>
+    <h3 class="bottom-link header-bottom" id="poly-e-link"><a href="polyethylene.php">Polyethylene</a></h3>
+    <h3 class="bottom-link header-bottom" id="poly-p-link"><a href="polypropylene.php">Polypropylene</a></h3>
+    <h3 class="bottom-link header-bottom" id="s-r-link"><a href="scratch-resistant.php">Scratch Resistant</a></h3>
   </div>
   <div id="contact-footer">
-    <h3 class="bottom-link"><a href="contact.php">Contact Us</a></h3>
+    <h3 class="bottom-link header-bottom" id="contact-link"><a href="contact.php">Contact Us</a></h3>
     <ul>
       <li class="bottom-link">Call us: 516-248-1521</li>
       <li class="bottom-link"><a href="mailto:sales@robecoinc.com?Subject=Customer%20Email" target="_top">Email us: sales@robecoinc.com</li>
