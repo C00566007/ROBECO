@@ -9,7 +9,7 @@
 <h2>Polyethylene </h2>
 <a href="#Top" class="list-link-products"><p onClick="display('#first-wrapper')">Extruded</p></a><hr>
 <h2>Scratch Resistant </h2>
-<a href="#Top" class="list-link-products"><p onClick="display('#fourth-wrapper')">*Product Name*</p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#fourth-wrapper')">Glassclear&trade;</p></a><hr>
 </div>
 </div>
 <div id="space">
@@ -118,7 +118,7 @@ for information.*</li>
 <!--POLYPROPYLENE CLEAR FLEXIBLE ENDS HERE-->
 
 <!--SCRATCH RESISTANT BEGINS HERE-->
-<div id="fourth-wrapper" class="script"><div class="product-title">*Scratch Reistant Brand Name*</div> <div class="price"> *Scratch Resistant Brand name* extruded clear vinyl is available from stock and is competitively priced to make it the obvious choice for boat windows and other see-through applications.  Robeco’s extruded clear vinyl on rolls is renowned for its sparkling clarity and distortion free appearance.  This exciting new product, [brand name], is supplied in 20 yard long rolls, allowing the user to take only what is needed to manufacture products and eliminate waste.  This popular product is now available with a Clear Scratch Resistant Coating on two sides to help to keep the vinyl looking new longer.  
+<div id="fourth-wrapper" class="script"><div class="product-title">Scratch Reistant Glassclear&trade;</div> <div class="price"> Scratch Resistant Glassclear&trade; extruded clear vinyl is available from stock and is competitively priced to make it the obvious choice for boat windows and other see-through applications.  Robeco’s extruded clear vinyl on rolls is renowned for its sparkling clarity and distortion free appearance.  This exciting new product, Glassclear&trade;, is supplied in 20 yard long rolls, allowing the user to take only what is needed to manufacture products and eliminate waste.  This popular product is now available with a Clear Scratch Resistant Coating on two sides to help to keep the vinyl looking new longer.  
 </div>
  <ul class ="product-specs-lowboy">
   <li class="main-list-category"> Specifications:</li>

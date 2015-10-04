@@ -340,7 +340,11 @@ div.product-title-multi-images {margin-top:4%; font-size:1.175em;} div.multi-ima
    #marine-grade3 {margin-top:16px;} #marine-grade4 {margin-top:18px;}
 /*UNIQUE MARINE GRADE STYLES END*/
 
-
-
-
 /*STYLES PERTAINING TO INDIVIDUAL PRODUCT IMAGES END HERE*/
+
+/*STYLES PERTAINING TO MULTIPLE PRODUCT SPECS ON ONE PAGE BEGIN HERE*/
+div.product-title-multi-product-page {margin-top:1%;}
+
+
+
+

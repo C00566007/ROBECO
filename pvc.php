@@ -22,11 +22,7 @@
     </a>
     <hr>
     <a href="#Top" class="list-link-products">
-    <p onClick="display('#fifth-wrapper')">Semi-Rigid</p>
-    </a>
-    <hr>
-    <a href="#Top" class="list-link-products">
-    <p onClick="display('#sixth-wrapper')">Pressure Sensitive</p>
+    <p onClick="display('#fifth-wrapper')">Semi-Rigid & Pressure Sensitive</p>
     </a>
     <hr>
     <a href="#Top" class="list-link-products">
@@ -122,7 +118,7 @@
 <div id="third-wrapper" class="script">
 <div class="positioning-top">
   <div class="product-title">Welding Curtain Films</div>
-  <div class="price"> PVC Welding Curtain Vinyl Films have been developed for their protective qualities against ultra-violet and visible radiation.  Major applications are for <span class="underline">custom enclosures</span> and <span class="underline">safety screens</span>, particularly where <span class="underline">arc welding</span> is taking place.</div>
+  <div class="price"> PVC Welding Curtain Vinyl Films have been developed for their protective qualities against ultra-violet and visible radiation.  Major applications are for custom enclosures and safety screens, particularly where arc welding is taking place.</div>
   <ul class ="product-specs-lowboy">
     <li class="main-list-category"> Specifications </li>
     <ul class="sub-list-expanded">
@@ -167,7 +163,7 @@
 <!--SEMI RIGID BEGINS HERE-->
 <div id="fifth-wrapper" class="script">
   <div class="product-title">Semi-Rigid Vinyl Film</div>
-  <div class="price"> A line of <span class="underline">Double Polished Clear</span> and <span class="underline">Orange Peel Clear Vinyl Film</span> is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
+  <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
   <ul class ="product-specs-lowboy">
     <li class="main-list-category"> Specifications </li>
     <ul class="sub-list-expanded" >
@@ -199,7 +195,7 @@
   <div class="positioning-top">
   <div class="product-title  product-title-multi-images">Fire-resistant films</div>
   <div class="price price-multi-images"> Robeco is a major supplier of fire-resistant clear and tinted vinyl film.
-    These products are widely used as component parts of <span class="underline">tents</span>, <span class="underline">recreational vehicles</span>, <span class="underline">clean rooms</span> and a host of applications where see-thru clarity and fire-resistant specifications are an integral design requirement. </div>
+    These products are widely used as component parts of tents, recreational vehicles, clean rooms and a host of applications where see-thru clarity and fire-resistant specifications are an integral design requirement. </div>
   <ul class ="product-specs-lowboy product-specs-multi-images">
     <li class="main-list-category-multi-images"> Roll stock is available with the following specifications:</li>
     <ul class="sub-list-expanded" >
@@ -226,7 +222,7 @@
 <div id="eigth-wrapper" class="script">
 <div class="positioning-top">
   <div class="product-title">PATIO GRADE FILM</div>
-  <div class="price"> Robeco stocks film especially developed for <span class="underline">Patio Enclosures</span>, <span class="underline">Sun Rooms</span>, "<span class="underline">Florida Rooms,</span>" "<span class="underline">Arizona Rooms,</span>" and other window applications. </div>
+  <div class="price"> Robeco stocks film especially developed for Patio Enclosures, Sun Rooms, "Florida Rooms," "Arizona Rooms," and other window applications. </div>
   <ul class ="product-specs-lowboy">
     <li class="main-list-category"> Specifications:</li>
     <ul class="sub-list-expanded" >
