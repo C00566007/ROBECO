@@ -128,17 +128,7 @@
 <!--! INSERT IMAGES-->
 <!--NOISE & CLIMATE CONTROL ENDS HERE-->
 
-<!--SEMI RIGID BEGINS HERE-->
-<div id="fourth-wrapper" class="script"> <div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
- <ul class ="product-specs-lowboy">
- <li class="main-list-category"> Specifications </li>
-		<ul class="sub-list-expanded" >
-			<li> <b>Thickness:</b> Available in 49" and 54"; Other widths available by special order </li>
-            <li> <b>Hardness</b>: 1H to 5H</li>
-       </ul>
-         </ul>
-         </ul></div>
-<!--SEMI RIGID ENDS HERE-->
+
   
 <!--PRESSURE SENSITIVE BEGINS HERE-->
 <div id="first-wrapper"> <div class="product-title">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
@@ -151,6 +141,30 @@
        </ul>
          </ul>
          </ul></div>  <!--PRESSURE SENSITIVE ENDS HERE-->
+
+<!-- BEGINS HERE-STYLES FOR SEMI RIGID BEFORE COMBINING IT WITH PRESSURE-SENSITIVE
+<div id="fourth-wrapper" class="script"> <div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
+ <ul class ="product-specs-lowboy">
+ <li class="main-list-category"> Specifications </li>
+		<ul class="sub-list-expanded" >
+			<li> <b>Thickness:</b> Available in 49" and 54"; Other widths available by special order </li>
+            <li> <b>Hardness</b>: 1H to 5H</li>
+       </ul>
+         </ul>
+         </ul></div>
+<!--SEMI RIGID ENDS HERE-->
+
+<!--SEMI RIGID BEGINS HERE-->
+<div id="fourth-wrapper"> <div class="product-title product-title-multi-product-page">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
+ <ul class ="product-specs-lowboy">
+ <li class="main-list-category"> Specifications </li>
+		<ul class="sub-list-expanded" >
+			<li> <b>Thickness:</b> Available in 49" and 54"; Other widths available by special order </li>
+            <li> <b>Hardness</b>: 1H to 5H</li>
+       </ul>
+         </ul>
+         </ul></div>
+<!--SEMI RIGID ENDS HERE-->
 
 <!--FIRE RESISTANT BEGINS HERE-->
 <div id="seventh-wrapper" class="script"><div class="positioning-top">

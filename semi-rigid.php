@@ -128,7 +128,7 @@
 <!--NOISE & CLIMATE CONTROL ENDS HERE-->
 
 <!--SEMI RIGID BEGINS HERE-->
-<div id="first-wrapper"> <div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
+<div id="first-wrapper"><div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
  <ul class ="product-specs-lowboy">
  <li class="main-list-category"> Specifications </li>
 		<ul class="sub-list-expanded" >
@@ -136,16 +136,26 @@
             <li> <b>Hardness</b>: 1H to 5H</li>
        </ul>
          </ul>
-         </ul></div>
-<!--SEMI RIGID ENDS HERE-->
-<!--PRESSURE SENSITIVE BEGINS HERE-->
-         <div><div class="product-title product-title-multi-product-page">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
+         </ul>
+         <div class="product-title product-title-multi-product-page">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
  <ul class ="product-specs-lowboy">
  <li class="main-list-category"> Specifications </li>
 		<ul class="sub-list-expanded" >
 			<li> .006 x 54" 3H --- 185 yards per roll </li>
-            <li> A special heavyweight white slip release paper on the coated side permits RF</li> <li class="list-clear-indent">welding into pockets, tags and labels.</li>
-            <li> A variety of colors and thicknesses available by special order. </li>
+            <li> A special heavyweight white slip release paper on the coated side permits RF welding into pockets, tags and labels.</li>
+            <li > A variety of colors and thicknesses available by special order. </li>
+       </ul>
+         </ul>
+         </ul></div>  
+<!--SEMI RIGID ENDS HERE-->
+<!--PRESSURE SENSITIVE BEGINS HERE-->
+         <div id="sixth-wrapper" class="script"><div class="product-title product-title-multi-product-page">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
+ <ul class ="product-specs-lowboy">
+ <li class="main-list-category"> Specifications </li>
+		<ul class="sub-list-expanded" >
+			<li> .006 x 54" 3H --- 185 yards per roll </li>
+            <li> A special heavyweight white slip release paper on the coated side permits RF welding into pockets, tags and labels.</li>
+            <li > A variety of colors and thicknesses available by special order. </li>
        </ul>
          </ul>
          </ul></div>  
