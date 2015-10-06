@@ -8,12 +8,10 @@
 <a href="#Top" class="list-link-products"><p onClick="display('#third-wrapper')">Marine Grade</p></a><hr>
 <a href="#Top" name="test" class="list-link-products"><p onClick="display('#fifth-wrapper')">Welding Curtain</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#sixth-wrapper')">Noise & Climate Control</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#fourth-wrapper')">Semi-Rigid</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#first-wrapper')">Pressure Sensitive</p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#first-wrapper')">Semi-Rigid & Pressure Sensitive</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#seventh-wrapper')">Fire-Resistant</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#eigth-wrapper')">Patio Grade</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#ninth-wrapper')">Anti-Static</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#tenth-wrapper')">Expanded</p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#ninth-wrapper')">Expanded & Anti-Static</p></a><hr>
 </div>
 </div>
 <div id="space">
@@ -130,17 +128,29 @@
 
 
   
-<!--PRESSURE SENSITIVE BEGINS HERE-->
-<div id="first-wrapper"> <div class="product-title">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
+<!--PRESSURE SENSITIVE & SEMI RIGID BEGINS HERE-->
+<div id="first-wrapper">
+  <div class="product-title">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
  <ul class ="product-specs-lowboy">
  <li class="main-list-category"> Specifications </li>
 		<ul class="sub-list-expanded" >
 			<li> .006 x 54" 3H --- 185 yards per roll </li>
-            <li> A special heavyweight white slip release paper on the coated side permits RF</li> <li class="list-clear-indent">welding into pockets, tags and labels.</li>
-            <li> A variety of colors and thicknesses available by special order. </li>
+            <li> A special heavyweight white slip release paper on the coated side permits RF welding into pockets, tags and labels.</li>
+            <li > A variety of colors and thicknesses available by special order. </li>
        </ul>
          </ul>
-         </ul></div>  <!--PRESSURE SENSITIVE ENDS HERE-->
+         </ul>
+         <div class="product-title product-title-multi-product-page">Semi-Rigid Vinyl Film</div>
+  <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
+  <ul class ="product-specs-lowboy">
+    <li class="main-list-category"> Specifications </li>
+    <ul class="sub-list-expanded" >
+      <li> <b>Thickness:</b> Available in 49" and 54"; Other widths available by special order </li>
+      <li> <b>Hardness</b>: 1H to 5H</li>
+    </ul>
+  </ul>
+         </div>  
+<!--PRESSURE SENSITIVE & SEMI RIGID ENDS HERE-->
 
 <!-- BEGINS HERE-STYLES FOR SEMI RIGID BEFORE COMBINING IT WITH PRESSURE-SENSITIVE
 <div id="fourth-wrapper" class="script"> <div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
@@ -154,17 +164,7 @@
          </ul></div>
 <!--SEMI RIGID ENDS HERE-->
 
-<!--SEMI RIGID BEGINS HERE-->
-<div id="fourth-wrapper"> <div class="product-title product-title-multi-product-page">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
- <ul class ="product-specs-lowboy">
- <li class="main-list-category"> Specifications </li>
-		<ul class="sub-list-expanded" >
-			<li> <b>Thickness:</b> Available in 49" and 54"; Other widths available by special order </li>
-            <li> <b>Hardness</b>: 1H to 5H</li>
-       </ul>
-         </ul>
-         </ul></div>
-<!--SEMI RIGID ENDS HERE-->
+
 
 <!--FIRE RESISTANT BEGINS HERE-->
 <div id="seventh-wrapper" class="script"><div class="positioning-top">
@@ -216,39 +216,81 @@
 </div>
 
 <!--PATIO GRADE IMAGE(1)HERE-->
-<!--PATIO GRADE BEGINS HERE-->
+<!--PATIO GRADE ENDS HERE-->
 
-<!--ANTI-STATIC BEGINS HERE-->
-<div id="ninth-wrapper" class="script"><div class="product-title">ANTI-STATIC FILM</div> <div class="price"> Robeco offers Lo-stat Vinyl Film for use where static electricity should be minimized.</div>
- <ul class ="product-specs-lowboy">
-  <li class="main-list-category"> Specifications</li>
-		<ul class="sub-list-expanded" >
-			<li> <b> Thickness:</b> .012, .016</li>
-            <li> <b>Widths:</b> 54" and 72"</li>
-            <li> <b>Grades:</b> Clear with Lo-Stat and Low Cold Crack;</li> <li class="list-clear-indent">Clear with Electro-Conductive Printing </li>
-	    </ul>
- </ul>
-      </div>
- <!--NO ANTI-STATIC IMAGES-->
- <!--ANTI-STATIC GRADE ENDS HERE-->
-   
-   <!--EXPANDED PVC BEGIN HERE-->
-<div id="tenth-wrapper" class="script"><div class="product-title">Expanded Vinyls</div> <div class="price"> Robeco offers through custom orders a range of expanded, supported, and unsupported (heat sealing vinyls). </div>
+<!--EXPANDED & ANTI-STATIC BEGIN HERE-->
 
- <ul class ="product-specs-lowboy">
- 
+<div id="ninth-wrapper" class="script">
+  <div class="product-title">Expanded Vinyls</div>
+<div class="price"> Robeco offers through custom orders a range of expanded, supported, and unsupported (heat sealing vinyls). </div>
+<ul class ="product-specs-lowboy">
 <li class="main-list-category">Expanded vinyls are offered for:</li>
-		<ul class="sub-list-expanded" >
-			<li>Photo Albums</li>
-            <li>Guitar Cases</li>
-            <li>Attaché Cases </li>
-            <li>Day Planners </li>
-            <li>Bookbinding Applications </li>
-            <li>Featuring: <ul id="sub-list"><li><b>Doeskin:</b> For computer mouse pad applications.</li><li><b>Black Soft Panther:</b> For ear cushion applications.</li></ul>
-            </li>
-        </ul>
-	</div>
-<!--EXPANDED PVC END HERE-->
+<ul class="sub-list-expanded" >
+  <li>Photo Albums</li>
+  <li class="list-clear">Guitar Cases</li>
+  <li class="list-clear">Attaché Cases </li>
+  <li class="list-clear">Day Planners </li>
+  <li class="list-clear">Bookbinding Applications </li>
+  <li class="list-clear">Featuring:
+    <ul id="sub-list">
+      <li><b>Doeskin:</b> For computer mouse pad applications.</li>
+      <li><b>Black Soft Panther:</b> For ear cushion applications.</li>
+    </ul>
+    </ul>
+  </ul>
+  <div class="product-title product-title-multi-product-page">ANTI-STATIC FILM</div>
+  <div class="price"> Robeco offers Lo-stat Vinyl Film for use where static electricity should be minimized.</div>
+  <ul class ="product-specs-lowboy">
+    <li class="main-list-category"> Specifications</li>
+    <ul class="sub-list-expanded" >
+      <li> <b> Thickness:</b> .012, .016</li>
+      <li> <b>Widths:</b> 54" and 72"</li>
+      <li> <b>Grades:</b> Clear with Lo-Stat and Low Cold Crack;</li>
+      <li class="list-clear-indent">Clear with Electro-Conductive Printing </li>
+    </ul>
+    </ul>
+  </ul>
+</div>
+
+<!--EXPANDED & ANTI-STATIC END HERE-->
+
+<!--ANTI-STATIC BEFORE COMBINING WITH EXPANDED BEGINS HERE
+<div id="ninth-wrapper" class="script">
+  <div class="product-title">ANTI-STATIC FILM</div>
+  <div class="price"> Robeco offers Lo-stat Vinyl Film for use where static electricity should be minimized.</div>
+  <ul class ="product-specs-lowboy">
+    <li class="main-list-category"> Specifications</li>
+    <ul class="sub-list-expanded" >
+      <li> <b> Thickness:</b> .012, .016</li>
+      <li> <b>Widths:</b> 54" and 72"</li>
+      <li> <b>Grades:</b> Clear with Lo-Stat and Low Cold Crack;</li>
+      <li class="list-clear-indent">Clear with Electro-Conductive Printing </li>
+    </ul>
+  </ul>
+</div>
+<!--NO ANTI-STATIC IMAGES--> 
+<!--ANTI-STATIC BEFORE COMBINING WITH EXPANDED ENDS HERE-->
+
+<!--EXPANDED BEFORE COMBINING WITH ANTI-STATIC BEGINS HERE
+<div id="tenth-wrapper" class="script">
+<div class="product-title">Expanded Vinyls</div>
+<div class="price"> Robeco offers through custom orders a range of expanded, supported, and unsupported (heat sealing vinyls). </div>
+<ul class ="product-specs-lowboy">
+<li class="main-list-category">Expanded vinyls are offered for:</li>
+<ul class="sub-list-expanded" >
+  <li>Photo Albums</li>
+  <li class="list-clear">Guitar Cases</li>
+  <li class="list-clear">Attaché Cases </li>
+  <li class="list-clear">Day Planners </li>
+  <li class="list-clear">Bookbinding Applications </li>
+  <li class="list-clear">Featuring:
+    <ul id="sub-list">
+      <li><b>Doeskin:</b> For computer mouse pad applications.</li>
+      <li><b>Black Soft Panther:</b> For ear cushion applications.</li>
+    </ul>
+  </ul>
+</div>
+<!--EXPANDED BEFORE COMBINING WITH ANTI-STATIC ENDS HERE--> 
 <script src="pvc-script.js"></script>
 </div>
 </div>

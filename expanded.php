@@ -8,8 +8,7 @@
 <a href="#Top" class="list-link-products"><p onClick="display('#third-wrapper')">Marine Grade</p></a><hr>
 <a href="#Top" name="test" class="list-link-products"><p onClick="display('#fifth-wrapper')">Welding Curtain</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#sixth-wrapper')">Noise & Climate Control</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#fourth-wrapper')">Semi-Rigid</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#seventh-wrapper')">Pressure Sensitive</p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#fourth-wrapper')">Semi-Rigid & Pressure Sensitive </p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#eigth-wrapper')">Fire-Resistant</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#tenth-wrapper')">Patio Grade</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#ninth-wrapper')">Anti-Static</p></a><hr>
@@ -128,7 +127,29 @@
 <!--! INSERT IMAGES-->
 <!--NOISE & CLIMATE CONTROL ENDS HERE-->
 
-<!--SEMI RIGID BEGINS HERE-->
+<!--SEMI RIGID & PRESSURE SENSITIVE BEGIN HERE-->
+<div id="fourth-wrapper" class="script"><div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
+ <ul class ="product-specs-lowboy">
+ <li class="main-list-category"> Specifications </li>
+		<ul class="sub-list-expanded" >
+			<li> <b>Thickness:</b> Available in 49" and 54"; Other widths available by special order </li>
+            <li> <b>Hardness</b>: 1H to 5H</li>
+       </ul>
+         </ul>
+         </ul>
+         <div class="product-title product-title-multi-product-page">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
+ <ul class ="product-specs-lowboy">
+ <li class="main-list-category"> Specifications </li>
+		<ul class="sub-list-expanded" >
+			<li> .006 x 54" 3H --- 185 yards per roll </li>
+            <li> A special heavyweight white slip release paper on the coated side permits RF welding into pockets, tags and labels.</li>
+            <li > A variety of colors and thicknesses available by special order. </li>
+       </ul>
+         </ul>
+         </ul></div>  
+<!--SEMI RIGID & PRESSURE SENSITIVE BEGIN HERE-->
+
+<!--SEMI RIGID BEFORE COMBINING WITH PRESSURE SENSITIVE BEGINS HERE
 <div id="fourth-wrapper" class="script"> <div class="product-title">Semi-Rigid Vinyl Film</div> <div class="price"> A line of Double Polished Clear and Orange Peel Clear Vinyl Film is available for a host of heat sealing applications such as overlays for binders, tool pouches, pockets, I.D. badges, ticket and x-ray holders and other stationery products.</div>
  <ul class ="product-specs-lowboy">
  <li class="main-list-category"> Specifications </li>
@@ -138,9 +159,9 @@
        </ul>
          </ul>
          </ul></div>
-<!--SEMI RIGID ENDS HERE-->
+<!--SEMI RIGID BEFORE COMBINING WITH PRESSURE SENSITIVE ENDS HERE-->
   
-<!--PRESSURE SENSITIVE BEGINS HERE-->
+<!--PRESSURE SENSITIVE BEFORE COMBINING WITH SEMI-RIGID BEGINS HERE
 <div id="seventh-wrapper" class="script"> <div class="product-title">Pressure sensitive vinyl film</div> <div class="price">  Rolls of Double Polished Clear with acrylic adhesive coating on one side for permanent bond to most substrates.</div>
  <ul class ="product-specs-lowboy">
  <li class="main-list-category"> Specifications </li>
@@ -150,7 +171,8 @@
             <li> A variety of colors and thicknesses available by special order. </li>
        </ul>
          </ul>
-         </ul></div>  <!--PRESSURE SENSITIVE ENDS HERE-->
+         </ul></div>  <
+ <!--PRESSURE SENSITIVE BEFORE COMBINING WITH SEMI-RIGID ENDS HERE-->
 
 <!--FIRE RESISTANT BEGINS HERE-->
 <div id="eigth-wrapper" class="script"><div class="positioning-top">
