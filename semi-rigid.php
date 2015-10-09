@@ -210,8 +210,8 @@
 </div>
 
 <!--PATIO GRADE IMAGE(1)HERE-->
-<!--PATIO GRADE BEGINS HERE-->
 
+<!--EXPANDED & ANTI-STATIC BEGIN HERE-->
 <div id="ninth-wrapper" class="script">
   <div class="product-title">Expanded Vinyls</div>
 <div class="price"> Robeco offers through custom orders a range of expanded, supported, and unsupported (heat sealing vinyls). </div>
@@ -243,6 +243,7 @@
     </ul>
   </ul>
 </div>
+<!--EXPANDED & ANTI-STATIC END HERE-->
 
 <!--ANTI-STATIC BEFORE COMBINING WITH EXPANDED BEGINS HERE
 <div id="ninth-wrapper" class="script">

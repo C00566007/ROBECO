@@ -12,6 +12,7 @@
 <a href="#Top" class="list-link-products"><p onClick="display('#eigth-wrapper')">Fire-Resistant</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#ninth-wrapper')">Patio Grade</p></a><hr>
 <a href="#Top" class="list-link-products"><p onClick="display('#first-wrapper')">Expanded & Anti-Static</p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#tenth-wrapper')">Scratch Resistant</p></a><hr>
 </div>
 </div>
 <div id="space">
@@ -298,6 +299,29 @@
   </ul>
 </div>
 <!--EXPANDED BEFORE COMBINING WITH ANTI-STATIC ENDS HERE--> 
+
+<!--SCRATCH RESISTANT BEGINS HERE-->
+      <div id="tenth-wrapper" class="script">
+        <div class="product-title">Scratch Reistant Glassclear&trade;</div>
+        <div class="price">Scratch Resistant Glassclear&trade; extruded clear vinyl is available from stock and is competitively priced to make it the obvious choice for boat windows and other see-through applications.  Robeco’s extruded clear vinyl on rolls is renowned for its sparkling clarity and distortion free appearance.  This exciting new product, Glassclear&trade;, is supplied in 20 yard long rolls, allowing the user to take only what is needed to manufacture products and eliminate waste.  This popular product is now available with a Clear Scratch Resistant Coating on two sides to help to keep the vinyl looking new longer.</div>
+        <ul class ="product-specs-lowboy">
+          <li class="main-list-category">Specifications:</li>
+          <ul class="sub-list-expanded" >
+            <li><b>Thickness:</b> .030” and .040”;
+            <li class="list-clear"><b>Length:</b> Supplied in 20 Yard Long Rolls</li>
+          </ul>
+          <li class="main-list-category">Features</li>
+          <ul class="sub-list-expanded">
+            <li>Scratch Resistant Coating</li>
+            <li class="list-clear">Sparkling Clarity</li>
+            <li class="list-clear">Extruded Flexible Double Polished Clear Vinyl</li>
+            <li class="list-clear">Distortion Free Appearance</li>
+            <li>Scratch Resistant Vinyl on <i>two sides</i>; Eliminates Waste</li>
+          </ul>
+        </ul>
+      </div>
+<!--SCRATCH RESISTANT ENDS HERE-->
+
 <script src="pvc-script.js"></script>
 </div>
 </div>
