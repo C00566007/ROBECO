@@ -4,8 +4,8 @@
 <div id="aside-polyethylene">
 <h2 id="poly-spacing">Polypropylene</h2>
 <div id="sub-nav-polyethylene">
-<a href="#Top" class="list-link-products"><p onClick="display('#first-wrapper')">Extruded</p></a><hr>
-<a href="#Top" class="list-link-products"><p onClick="display('#second-wrapper')">Clear Flexible </p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#first-wrapper')">Clear Flexible</p></a><hr>
+<a href="#Top" class="list-link-products"><p onClick="display('#second-wrapper')">Extruded </p></a><hr>
 <h2>Polyethylene </h2>
 <a href="#Top" class="list-link-products"><p onClick="display('#third-wrapper')">Extruded</p></a><hr>
 </div>
@@ -13,7 +13,7 @@
 <div id="space">
 
 <!--POLYPROPYLENE EXTRUDED BEGINS HERE-->
-<div id="first-wrapper"><div class="product-title">   Extruded Polypropylene Sheets
+<div id="second-wrapper" class="script"><div class="product-title">   Extruded Polypropylene Sheets
 </div> 
  <ul class ="product-specs-lowboy">
   <li class="main-list-category"> Specifications</li>
@@ -40,7 +40,7 @@
       <!--POLYPROPYLENE EXTRUDED ENDS HERE-->
       
       <!--POLYPROPYLENE CLEAR FLEXIBLE BEGINS HERE-->
-<div id="second-wrapper" class="script"><div class="product-title">   Clear Flexible Polypropylene Sheets
+<div id="first-wrapper"><div class="product-title">   Clear Flexible Polypropylene Sheets
 </div> 
  <ul class ="product-specs-lowboy">
   <li class="main-list-category"> Specifications</li>

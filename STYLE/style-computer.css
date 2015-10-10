@@ -294,7 +294,7 @@ li.list-clear-indent-grades {position:relative; clear:both; float:left; left:7%;
 	float:left;
 	background:#2a5bbd; 
 	width:20%;
-	height:26.5em;
+	height:20.5em;
 	top:6.5%;
 	left:3.5%;
 	border-radius:8px;
@@ -305,8 +305,6 @@ li.list-clear-indent-grades {position:relative; clear:both; float:left; left:7%;
 	width:75%;}
 	#poly-spacing {margin-top:14%;}
 	li.list-indent-poly {position:relative; clear:both; float:left; left:7%; list-style-type:none;}
-	
-	
 /*STYLES PERTAINING TO INDIVIDUAL PRODUCT IMAGES BEGIN HERE*/
 div.positioning-top{float: left; width: inherit;}
 div.positioning-bottom{float: left; width: 110%; clear: left;  margin-top: 2%;}
